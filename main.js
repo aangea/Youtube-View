@@ -112,7 +112,7 @@ async function autoViewYouTube(videoUrl, proxies, processIndex, updateProgress) 
 }
 
 async function startProcess(maxConcurrentProcesses) {
-    const videoFilePath = './videos.txt'; // Path to the file containing video URLs
+    const videoFilePath = './url.txt'; // Path to the file containing video URLs
     const proxyFilePath = './proxies.txt'; // Path to the file containing proxy list
 
     try {
