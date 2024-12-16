@@ -1,10 +1,12 @@
 Youtube Auto View
 
 Bot
-git clone https://github.com/aangea/Youtube-View
-npm install
 
-npm install puppeteer-extra puppeteer-extra-plugin-stealth proxy-chain
+	git clone https://github.com/aangea/Youtube-View
+	npm install
+ 	npm install puppeteer-extra
+	npm install puppeteer-extra-plugin-stealth 
+	npm install proxy-chain
 
 Node.js
 Installation Node.js on Windows :
