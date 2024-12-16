@@ -15,3 +15,5 @@ Download Node.js
 Choose 'Prebuilt Installer'
 Choose your version (18.20.4 LTS / HIGHER)
 Download & Install
+
+Free Proxy : https://github.com/monosans/proxy-list/tree/main
